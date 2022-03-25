@@ -1,0 +1,14 @@
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\obj\Debug\netcoreapp3.1\GroupingLinq.csproj.AssemblyReference.cache
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\obj\Debug\netcoreapp3.1\GroupingLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\obj\Debug\netcoreapp3.1\GroupingLinq.AssemblyInfoInputs.cache
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\obj\Debug\netcoreapp3.1\GroupingLinq.AssemblyInfo.cs
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\obj\Debug\netcoreapp3.1\GroupingLinq.csproj.CoreCompileInputs.cache
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\bin\Debug\netcoreapp3.1\GroupingLinq.exe
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\bin\Debug\netcoreapp3.1\GroupingLinq.deps.json
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\bin\Debug\netcoreapp3.1\GroupingLinq.runtimeconfig.json
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\bin\Debug\netcoreapp3.1\GroupingLinq.runtimeconfig.dev.json
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\bin\Debug\netcoreapp3.1\GroupingLinq.dll
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\bin\Debug\netcoreapp3.1\GroupingLinq.pdb
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\obj\Debug\netcoreapp3.1\GroupingLinq.dll
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\obj\Debug\netcoreapp3.1\GroupingLinq.pdb
+D:\Dev\C#\Consola\Linq\GroupingLinq\GroupingLinq\obj\Debug\netcoreapp3.1\GroupingLinq.genruntimeconfig.cache
